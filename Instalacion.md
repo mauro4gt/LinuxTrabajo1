@@ -1,4 +1,4 @@
-# Instalación de Arch Linux con UEFI, LVM y GNOME en VirtualBox
+# Instalación de Arch Linux con UEFI, LVM y GNOME en VirtualBox 
 
 ## 1. Objetivo
 
