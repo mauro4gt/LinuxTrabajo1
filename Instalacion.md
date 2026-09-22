@@ -1360,3 +1360,7 @@ Finalmente se verificó el funcionamiento de:
 - VirtualBox Guest Utilities.
 
 El sistema quedó instalado, configurado y arrancando correctamente desde el disco virtual sin depender del ISO de instalación.
+
+# 47. Anexo
+
+<img width="1279" height="905" alt="image" src="https://github.com/user-attachments/assets/1577fe70-a86b-45a2-ba29-7d56aa2848e2" />
