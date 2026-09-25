@@ -11,7 +11,7 @@
 ### 📚 Curso
 **Administración de Linux**
 
-### 👨‍💻 Estudiantes - Equipo 1
+### 👨‍💻 Estudiantes - Equipo 2
 **Mauricio Eduardo Cuadrado Clavijo**
 ###
 **Alex Vicente Benavides Freire**
